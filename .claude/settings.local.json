@@ -4,7 +4,10 @@
       "Bash(npm run:*)",
       "Bash(npm list:*)",
       "Bash(npm install:*)",
-      "Bash(npx tsc:*)"
+      "Bash(npx tsc:*)",
+      "Bash(git remote:*)",
+      "Read(//Users/admin/.claude/plugins/cache/ui-ux-pro-max-skill/ui-ux-pro-max/2.0.1/.claude/skills/ui-ux-pro-max/**)",
+      "Bash(python3 scripts/search.py 'romantic love dark cinematic emotional finale screen' --design-system -p 'Love Finale' -f markdown)"
     ]
   }
 }

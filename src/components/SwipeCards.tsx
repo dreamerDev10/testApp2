@@ -145,8 +145,8 @@ export default function SwipeCards({ cards, onComplete }: SwipeCardsProps) {
       <div className="relative z-20 flex items-center gap-3">
         {/* Card stack */}
         <div
-          className="relative w-[min(336px,calc(100vw-32px))] flex-shrink-0 sm:w-96 [perspective:1800px]"
-          style={{ height: "min(500px, calc(100svh - 180px))" }}
+          className="relative w-[min(390px,calc(100vw-20px))] flex-shrink-0 sm:w-[440px] [perspective:1800px]"
+          style={{ height: "min(580px, calc(100svh - 150px))" }}
           onPointerMove={handlePointerMove}
           onPointerLeave={resetTilt}
         >
